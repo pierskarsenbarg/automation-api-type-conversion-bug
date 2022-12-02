@@ -1,0 +1,5 @@
+config:
+  'debug-stack:accountId': 012345678912
+  'aws:allowedAccountIds':
+    - 012345678912
+  'aws:region': eu-west-1
